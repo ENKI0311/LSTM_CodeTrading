@@ -1,4 +1,3 @@
-Here's a professional and concise README template for your **LSTM_CodeTrading** project:
 
 ---
 
@@ -93,4 +92,3 @@ For questions or suggestions, feel free to reach out:
 
 ---
 
-You can modify this template further to reflect specific aspects of your project. Let me know if you'd like additional sections or edits! 🚀
